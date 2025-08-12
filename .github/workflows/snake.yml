@@ -40,9 +40,7 @@ jobs:
           # If the dark mode image doesn't exist in README, add both versions
           if ! grep -q "gh-dark-mode-only" README.md; then
             # Find the snake image line and add dark mode version after it
-            sed -i '/snake\.svg/a\
-<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v='$DATE'#gh-dark-mode-only" alt="Snake animation" />
-' README.md
+            sed -i "/snake\.svg/a <img src=\"https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=$DATE#gh-dark-mode-only\" alt=\"Snake animation\" />" README.md
           fi
 
       - name: Check for README changes
