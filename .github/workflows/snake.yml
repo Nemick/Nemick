@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs every day at midnight UTC
   workflow_dispatch: # Allow manual trigger
-  push: # Run immediately when changes are pushed to main
+  push:
     branches:
       - main
 
@@ -22,7 +22,7 @@ jobs:
           github_user_name: Nemick
           outputs: dist/snake.svg
           color_snake: "#70A5FD"
-          color_dots: "#38BDAE", "#F7768E", "#FF9E64", "#E0AF68", "#9ECE6A"
+          color_dots: "#38BDAE,#F7768E,#FF9E64,#E0AF68,#9ECE6A"
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
