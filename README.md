@@ -35,7 +35,7 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/Nemick/Nemick/blob/output/snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg)
 
 ---
 
