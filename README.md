@@ -35,7 +35,8 @@
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-12)
+![Snake animation](https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-12#gh-light-mode-only)
+<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-12#gh-dark-mode-only" alt="Snake animation" />
 
 
 ---
