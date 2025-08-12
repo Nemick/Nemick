@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Nehemiah Mutai  
+## 👋 Hey there, I'm Nehemiah Mutai  
 **Engineer | AI Explorer | Solar Whisperer | Control Systems Geek**
 
 <div align="center">
@@ -20,18 +20,19 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehemiah-mutai)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254715271059)
 
-</div>  
-- ⚡ Fun fact: I once debugged a solar installation issue faster than I could brew coffee.  
+</div>
 
-## 📊 GitHub Stats & Languages
+- ⚡ Fun fact: I once debugged a solar installation issue faster than I could brew coffee.  
+---
+### 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nemick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" width="48%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nemick&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemick&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemick&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nemick&theme=dark&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 ---
@@ -58,11 +59,12 @@
 
 </div>
 
-## 🐍 Contribution Snake  
+---
+### 🐍 Contribution Snake  
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-12#gh-light-mode-only)
-<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-12#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-12#gh-dark-mode-only" alt="Snake animation" />
 
 </div>
 
@@ -70,7 +72,7 @@
 
 <div align="center">
   
-### 🌟 *"Engineering isn't just equations… it's the art of making electrons dance."*
+#### 🌟 *"Engineering isn't just equations… it's the art of making electrons dance."*
 
 **⭐ If you like what you see, give my repos a star! ⭐**
 
