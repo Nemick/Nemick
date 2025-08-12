@@ -32,7 +32,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nemick&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nemick&theme=tokyonight&hide_border=true" alt="Wakatime Stats" width="48%" />
 </div>
 
 ---
@@ -63,7 +62,7 @@
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-12#gh-light-mode-only)
-<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-12#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-12#gh-dark-mode-only" alt="Snake animation" />
 
 </div>
 
