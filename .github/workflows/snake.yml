@@ -25,12 +25,25 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Nemick
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
           
-      - name: Update README with cache-busting date
+      - name: Update README with cache-busting date and dark mode support
         run: |
           DATE=$(date +%Y-%m-%d)
-          sed -i "s|https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg.*|https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true\&v=$DATE)|" README.md
+          # Update snake animation URLs with dark/light mode support
+          sed -i "s|https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg.*|https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true\&v=$DATE#gh-light-mode-only)|" README.md
+          sed -i "s|https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg.*|https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true\&v=$DATE#gh-dark-mode-only)|" README.md
+          
+          # If the dark mode image doesn't exist in README, add both versions
+          if ! grep -q "gh-dark-mode-only" README.md; then
+            # Find the snake image line and add dark mode version after it
+            sed -i '/snake\.svg/a\
+<img src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v='$DATE'#gh-dark-mode-only" alt="Snake animation" />
+' README.md
+          fi
 
       - name: Check for README changes
         id: check_changes
