@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey there, I’m Nehemiah Kipkoech Kimutai  
 
-<!--
-**Nemick/Nemick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer | AI Explorer | Solar Whisperer | Control Systems Geek**
 
-Here are some ideas to get you started:
+- 🔭 Currently engineering the future with **AI + Renewable Energy**.  
+- 🌱 Leveling up in **Advanced Control Systems** and **Machine Learning**.  
+- 🤝 Keen to collaborate on projects where **Electrical Engineering** ⚡ meets **Artificial Intelligence** 🤖.  
+- 🧠 Secret superpower: Explaining PID control so well that even a 5-year-old would start tuning gains.  
+- 💬 Ask me about **Solar PV Design**, **SCADA systems**, or why **Manchester City** will win *again*.  
+- 📫 Reach me via [Email](mailto:nemnemick17@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nehemiah-mutai) | [WhatsApp](https://wa.me/254715271059)  
+- ⚡ Fun fact: I once debugged a solar installation issue faster than I could brew coffee.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Nehemiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nemick&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemick&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Achievements & Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Nemick&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+
+---
+
+### 🛠️ Current Tech Arsenal
+- **Languages:** Python 🐍 | Java ☕ | C | C++  
+- **Tools & Platforms:** AutoCAD | Eclipse | MATLAB | Maven | Git | SCADA  
+- **Specialties:** Renewable Energy Systems | Control Engineering | Solar PV Design  
+
+---
+
+## 🐍 Contribution Snake  
+![Snake animation](https://github.com/Nemick/Nemick/blob/output/snake.svg)  
+
+---
+
+### 🌟 *“Engineering isn't just equations… it's the art of making electrons dance.”*
