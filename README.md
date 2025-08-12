@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Nehemiah Kipkoech Kimutai  
+# 👋 Hey there, I’m Nehemiah Mutai  
 
 **Engineer | AI Explorer | Solar Whisperer | Control Systems Geek**
 
