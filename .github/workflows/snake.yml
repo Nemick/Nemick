@@ -22,7 +22,7 @@ jobs:
           github_user_name: Nemick
           outputs: dist/snake.svg
           color_snake: "#70A5FD"
-          color_dots: "#38BDAE", "#F7768E", "#FF9E64", "#E0AF68", "#9ECE6A"
+          color_dots: "#38BDAE #F7768E #FF9E64 #E0AF68 #9ECE6A"
 
       - name: Update README with cache-busting date
         run: |
