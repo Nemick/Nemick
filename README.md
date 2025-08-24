@@ -64,9 +64,9 @@
 div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-23#gh-dark-mode-only)
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-23#gh-light-mode-only)
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-23#gh-light-mode-only)
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2025-08-24#gh-dark-mode-only)
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-24#gh-light-mode-only)
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2025-08-24#gh-light-mode-only)
 </picture>
 
 </div>
