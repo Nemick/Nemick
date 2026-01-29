@@ -66,13 +66,9 @@ I’m building practical systems at the intersection of **AI + Control Systems +
 ## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nemick&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemick&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Nemick&theme=dark&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
 
 ---
 
