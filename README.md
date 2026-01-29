@@ -1,17 +1,26 @@
 ## 👋 Hey there, I'm Nehemiah Mutai  
-**Engineer | AI Explorer | Solar Whisperer | Control Systems Geek**
+**Electrical Engineer | AI Explorer | Control Systems + Renewable Energy**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+%2B+Renewable+Energy+Engineer;Control+Systems+Enthusiast;Solar+PV+Design+Expert;SCADA+Systems+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=AI+%2B+Renewable+Energy+Engineer;Control+Systems+%26+Optimization;Solar+PV+%2B+Energy+Storage;SCADA+%26+Smart+Infrastructure)](https://git.io/typing-svg)
 
 </div>
 
-- 🔭 Currently engineering the future with **AI + Renewable Energy**.  
-- 🌱 Leveling up in **Advanced Control Systems** and **Machine Learning**.  
-- 🤝 Keen to collaborate on projects where **Electrical Engineering** ⚡ meets **Artificial Intelligence** 🤖.  
-- 🧠 Secret superpower: Explaining PID control so well that even a 5-year-old would start tuning gains.  
-- 💬 Ask me about **Solar PV Design**, **SCADA systems**, or why **Manchester City** will win *again*.  
+### 🔬 Current Research Direction
+I’m building practical systems at the intersection of **AI + Control Systems + Sustainable Energy**, with a strong interest in:
+- **Model Predictive Control (MPC)** for constrained energy optimization  
+- **Reinforcement Learning (RL)** for adaptive decision-making under uncertainty  
+- **Estimation & System Identification** for real-world, noisy sensor environments  
+- **Solar PV + Storage Energy Management** for reliable and affordable power
+
+---
+
+### 👨‍💻 What I Do
+- 🔭 Engineering solutions with **AI + Renewable Energy Systems**
+- 🌱 Advancing in **Control Systems (PID, MPC)** and **Machine Learning**
+- 🤝 Open to collaboration where **Electrical Engineering ⚡ meets AI 🤖**
+- 💬 Ask me about **Solar PV design**, **SCADA**, **smart-grid automation**, and **control theory**
 - 📫 **Connect with me:**
 
 <div align="center">
@@ -22,9 +31,39 @@
 
 </div>
 
-- ⚡ Fun fact: I once debugged a solar installation issue faster than I could brew coffee.  
 ---
-### 📊 GitHub Stats & Languages
+
+## 🚀 Selected Projects (High Signal)
+
+### ☀️ Jua Smart — Solar Energy Advisor for Kenya (Streamlit + AI)
+**Live Demo:** https://jua-smart-solar-advisor.streamlit.app/  
+**Repo:** https://github.com/Nemick/jua-smart-solar-advisor  
+
+✅ **Problem:** Solar PV sizing is often inaccurate and expensive for many Kenyan homes/SMEs.  
+🧠 **Method:** EPRA tariff logic + county irradiance + NASA POWER integration + Gemini-powered reporting.  
+📌 **Results:** Generates PV, inverter & battery recommendations + 25-year ROI/payback projections with exportable reports.
+
+---
+
+### 🚁 PID Drone Height Controller (C++)
+**Repo:** https://github.com/Nemick/pid-drone-height-controller  
+
+✅ **Problem:** Maintain stable drone height using feedback control.  
+🧠 **Method:** PID control loop + error tracking + real-time estimation logic.  
+📌 **Results:** Demonstrates closed-loop control behavior and PID tuning workflow for a dynamic system.
+
+---
+
+### 🚦 Road Accident Severity Prediction (Machine Learning)
+**Repo:** https://github.com/Nemick/road-accident-severity-prediction  
+
+✅ **Problem:** Predict accident severity from vehicle, collision, and casualty features.  
+🧠 **Method:** ML preprocessing + feature engineering + supervised learning pipeline.  
+📌 **Results:** Produces severity classification predictions with evaluation-ready workflow.
+
+---
+
+## 📊 GitHub Stats & Languages
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nemick&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -37,7 +76,7 @@
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -55,18 +94,20 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipse.org)
 
-**Specialties:** Renewable Energy Systems | Control Engineering | Solar PV Design | SCADA Systems
+**Specialties:** Control Systems • Renewable Energy • Solar PV Design • Energy Storage • SCADA
 
 </div>
 
 ---
-### 🐍 Contribution Snake  
-div align="center">
+
+## 🐍 Contribution Snake  
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2026-01-29#gh-dark-mode-only)
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2026-01-29#gh-light-mode-only)
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2026-01-29#gh-light-mode-only)
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true#gh-dark-mode-only" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true#gh-light-mode-only" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true" />
 </picture>
 
 </div>
@@ -75,11 +116,10 @@ div align="center">
 
 <div align="center">
   
-### 🌟 *"Engineering isn't just equations… it's the art of making electrons dance."*
+### 🌟 "Engineering isn't just equations… it's the art of making electrons dance."
 
 **⭐ If you like what you see, give my repos a star! ⭐**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nemick&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
- 
