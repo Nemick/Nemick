@@ -101,9 +101,9 @@ I’m building practical systems at the intersection of **AI + Control Systems +
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2026-01-31#gh-dark-mode-only)
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2026-01-31#gh-light-mode-only)
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2026-01-31#gh-light-mode-only)
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake-dark.svg?sanitize=true&v=2026-02-01#gh-dark-mode-only)
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2026-02-01#gh-light-mode-only)
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nemick/Nemick/output/snake.svg?sanitize=true&v=2026-02-01#gh-light-mode-only)
 </picture>
 
 </div>
